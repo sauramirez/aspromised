@@ -1,0 +1,19 @@
+{
+  "name": "aspromised",
+  "version": "0.1.0",
+  "description": "Promisify function with context support",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauramirez/aspromised.git"
+  },
+  "author": "Essau Ramirez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sauramirez/aspromised/issues"
+  },
+  "homepage": "https://github.com/sauramirez/aspromised#readme"
+}
